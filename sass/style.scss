@@ -1,0 +1,78 @@
+$bgcolor-color1: #98ff98;
+$bgcolor-color2: #008080;
+$bgcolor-color3: #FFD700;
+$bgcolor-color4: #FF6347;
+$bgcolor-color5: #FFFFFF;
+$square: 250px;
+$square2: 50px;
+$square1: 100px;
+
+
+html
+{
+margin:50px;
+}
+
+
+/* @import "compass/utilities/sprites";
+@import "exemplu/*.png";
+ @include all-exemplu-sprites; */
+
+
+.box1
+{
+background-color: $bgcolor-color1;
+width:$square;
+height:$square;
+}
+
+.box2
+{
+background-color: $bgcolor-color2;
+width:$square;
+height:$square;
+
+}
+
+.box3
+{
+background-color: $bgcolor-color3;
+width:$square;
+height:$square;
+}
+
+.box4 
+{
+background-color: $bgcolor-color4;
+width:$square;
+height:$square;
+}
+
+.box5
+{
+background-color: $bgcolor-color4;
+width:$square;
+height:$square;
+}
+
+.box6
+{
+background-color: $bgcolor-color4;
+width:$square;
+height:$square;
+}
+
+.box7
+{
+background-color: $bgcolor-color5;
+width:$square;
+height:$square;
+}
+
+.box8
+{
+background-color: $bgcolor-color5;
+width:$square2;
+height:$square2;
+}
+

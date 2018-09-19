@@ -1,0 +1,44 @@
+/* line 1, ../sass/style.scss */
+.header {
+  background-color: #FFFFFF;
+  color: white;
+  font-size: 18px;
+}
+
+/* line 7, ../sass/style.scss */
+.content {
+  background-image: url(../imges/banner.png);
+  background-size: cover;
+}
+
+/* line 12, ../sass/style.scss */
+.navbar2 {
+  height: 70px;
+  color: white;
+}
+
+/* line 17, ../sass/style.scss */
+.text_pe_img {
+  position: relative;
+}
+
+/* line 23, ../sass/style.scss */
+.text_pe_img .img {
+  width: 1335px;
+  height: 500px;
+  margin-bottom: 30px;
+}
+
+/* line 31, ../sass/style.scss */
+.text_pe_img .first-h1 {
+  color: black;
+  font-family: FontAwesome;
+  position: absolute;
+  top: 55px;
+  width: 1245px;
+}
+
+/* line 40, ../sass/style.scss */
+.main-picture .second-h1 {
+  margin-bottom: 30px;
+}
